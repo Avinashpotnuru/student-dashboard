@@ -19,7 +19,7 @@ git clone https://github.com/Avinashpotnuru/student-dashboard
 
 ### 2. Navigate to the project directory:
 ```bash
-cd admin dashboard
+cd student-dashboard
 ```
 
 ### 3. Install dependencies:
